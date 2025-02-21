@@ -1,4 +1,5 @@
 
+console.log("Calculator");
 // script.js
 let currentOperand = '';
 let previousOperand = '';
